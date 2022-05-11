@@ -1,0 +1,11 @@
+1. Update token 
+Jenkins > Manage Jenkins > Manage Credentails > system > update token
+
+
+2. Update server IP 
+Jenkins > Manage Jenkins > configure system > SonarQube installations
+
+Update server url: Server URL
+
+3. Update webhook
+sonar server/ http://3.144.186.145:9000/ > Administration > Configuration > click on "Webhook"
